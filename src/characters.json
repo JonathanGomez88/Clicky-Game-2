@@ -1,0 +1,78 @@
+[
+    {
+      "id": 1,
+      "image": "../images/Angel.jpg",
+      "clicked": false
+    },
+
+    {
+      "id": 2,
+      "image": "../images/Beast.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "../images/Callisto.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "../images/Colossus.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "../images/Cyclops.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "../images/Iceman.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "../images/Jean.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "../images/Juggernaut.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "../images/Magneto.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "../images/Mystique.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "../images/Pyro.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "../images/Rogue.jpg",
+      "clicked": false
+    },
+    {
+        "id": 13,
+        "image": "../images/Storm.jpg",
+        "clicked": false
+      },
+      {
+        "id": 14,
+        "image": "../images/Wolverine.jpg",
+        "clicked": false
+      },
+      {
+        "id": 15,
+        "image": "../images/Xavier.jpg",
+        "clicked": false
+      }
+  ]
